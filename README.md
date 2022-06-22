@@ -10,7 +10,7 @@ Rules I have for myself:
 (Note: at one point I was using one or two SVG elements but I eventually grew tired of them and they've since been deleted, so this rule no longer applies. No offense to SVG.)
 
 Because of the artistic nature of this project I have not concerned myself with cross-browser-compatibility, so the live preview will most likely look laughable in anything other than chrome.
-
-[cyanharlow.github.io/purecss-francine](https://cyanharlow.github.io/purecss-francine/)
+<!-- 
+[cyanharlow.github.io/purecss-francine](https://cyanharlow.github.io/purecss-francine/) -->
 
 ![alt text](https://raw.githubusercontent.com/cyanharlow/purecss-francine/master/preview.jpg)
